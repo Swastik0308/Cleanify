@@ -82,7 +82,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Swastik Shetty
+Swastik Shetty<br>
 Full-Stack Developer | MERN | Engineering Student
 <br>
 ⭐ If you like the project, drop a star!
